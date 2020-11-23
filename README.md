@@ -34,3 +34,5 @@ imports: [
     ButtonModule,
 ]
 ```
+
+## Step05: use these component imported in your views
